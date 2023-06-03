@@ -15,6 +15,6 @@ Predicting the percentage of a student who studies for 9.25 hrs/day: The code cr
 
 Printing the predicted score: The code prints the predicted score for 9.25 hours of study using the print() function. It formats the output to display the predicted score with two decimal places.
 
-The output of running this code would be: Predicted Score for 9.25 hours of study: 91.40%, indicating that the model predicts a score of 91.40% for a student who studies for 9.25 hours per day.
+The output of running this code would be: Predicted Score for 9.25 hours of study: 93.69%, indicating that the model predicts a score of 93.69% for a student who studies for 9.25 hours per day.
 
 Releases
